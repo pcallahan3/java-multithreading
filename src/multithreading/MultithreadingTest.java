@@ -8,6 +8,8 @@ package multithreading;
  * 4.)Override and implement the run() method in MultithreadingRunnable inner class
  * 5.)Create printRunnableThread() method that declares and initializes a MultithreadingRunnable object and call the 
  *    run() method on the object
+ * 6.)Create 2 MultithreadingTest objects in main() method and call start() method on first object
+ *    and call printRunnableThread() method on second MultithreadingTest object
  * 
  */
 public class MultithreadingTest extends Thread {

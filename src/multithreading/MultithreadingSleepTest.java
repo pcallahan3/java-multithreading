@@ -6,6 +6,7 @@ package multithreading;
  * 2.)Implement the run method with a for loop that iterates 50 times
  * 3.)Surround Thread.sleep with a try,catch block and sleep for 500 ms
  * 4.)Print out the results of i outside of the try,catch block
+ * 5.)Create MultithreadingSleepTest object in main() method and call start() method on object
  * 
  * 
  */
